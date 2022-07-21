@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gerador de Cartão de Visita</string>
+    <string name="person_name">Nome da Pessoa</string>
+    <string name="company_name">Nome da Empresa</string>
+    <string name="phone">Telefone</string>
+    <string name="email">e-Mail</string>
+    <string name="business_card_icon_description">Ícone de cartão usado para criar cartão de visita.</string>
+    <string name="insert_card_icon_description">Botão de salvar o cartão</string>
+    <string name="insert_new_card">Insira novo Cartão</string>
+    <string name="color_picker">Escolha a Cor</string>
+    <string name="card_added_success">Cartão adicionado com sucesso!</string>
+    <string name="fill_all_fields_warning">Por favor preencha todos os campos!</string>
+    <string name="success_captured_image">Imagem salva na Galeria</string>
+    <string name="share_image_label">Compartilhe esse Cartão de Visita como uma imagem</string>
+    <string name="color_picked">Cor escolhida</string>
+    <string name="card_deleted_label">Cartão deletado!</string>
+</resources>
